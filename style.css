@@ -1,0 +1,13 @@
+/*
+Theme Name: DHV-Jugend
+Description: DHV-Jugend child theme of songwriter
+Author: Grips.Art
+Author URI: https://github.com/DHV-Jugend
+Template: songwriter
+Version: 1.0
+*/
+
+.header-content #searchform .searchform-wrapper {
+    margin-top: 15px;
+    transform: translateY(-50%);
+}
